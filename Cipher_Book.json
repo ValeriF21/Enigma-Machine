@@ -1,0 +1,281 @@
+{
+  "1": {
+    "rotors": [
+      "I",
+      "II",
+      "III"
+    ],
+    "start": "ABC",
+    "notch": "SRE"
+  },
+  "2": {
+    "rotors": [
+      "I",
+      "III",
+      "IV"
+    ],
+    "start": "DEF",
+    "notch": "UTY"
+  },
+  "3": {
+    "rotors": [
+      "I",
+      "IV",
+      "V"
+    ],
+    "start": "GHI",
+    "notch": "PIY"
+  },
+  "4": {
+    "rotors": [
+      "I",
+      "II",
+      "V"
+    ],
+    "start": "JKL",
+    "notch": "AFH"
+  },
+  "5": {
+    "rotors": [
+      "I",
+      "II",
+      "IV"
+    ],
+    "start": "MNO",
+    "notch": "LEO"
+  },
+  "6": {
+    "rotors": [
+      "I",
+      "II",
+      "III"
+    ],
+    "start": "PQR",
+    "notch": "MUN"
+  },
+  "7": {
+    "rotors": [
+      "I",
+      "III",
+      "IV"
+    ],
+    "start": "STU",
+    "notch": "QWE"
+  },
+  "8": {
+    "rotors": [
+      "I",
+      "II",
+      "V"
+    ],
+    "start": "VWX",
+    "notch": "PEW"
+  },
+  "9": {
+    "rotors": [
+      "II",
+      "III",
+      "V"
+    ],
+    "start": "YZA",
+    "notch": "PTR"
+  },
+  "10": {
+    "rotors": [
+      "III",
+      "IV",
+      "V"
+    ],
+    "start": "BCD",
+    "notch": "CRT"
+  },
+  "11": {
+    "rotors": [
+      "I",
+      "II",
+      "III"
+    ],
+    "start": "EFG",
+    "notch": "WRX"
+  },
+  "12": {
+    "rotors": [
+      "II",
+      "III",
+      "V"
+    ],
+    "start": "HIJ",
+    "notch": "BGT"
+  },
+  "13": {
+    "rotors": [
+      "I",
+      "IV",
+      "V"
+    ],
+    "start": "KLM",
+    "notch": "MRC"
+  },
+  "14": {
+    "rotors": [
+      "I",
+      "II",
+      "IV"
+    ],
+    "start": "NOP",
+    "notch": "PQX"
+  },
+  "15": {
+    "rotors": [
+      "II",
+      "IV",
+      "V"
+    ],
+    "start": "QRS",
+    "notch": "SAD"
+  },
+  "16": {
+    "rotors": [
+      "I",
+      "II",
+      "V"
+    ],
+    "start": "TUV",
+    "notch": "WXC"
+  },
+  "17": {
+    "rotors": [
+      "I",
+      "III",
+      "IV"
+    ],
+    "start": "WXY",
+    "notch": "TGF"
+  },
+  "18": {
+    "rotors": [
+      "I",
+      "II",
+      "V"
+    ],
+    "start": "ZAB",
+    "notch": "GER"
+  },
+  "19": {
+    "rotors": [
+      "I",
+      "IV",
+      "V"
+    ],
+    "start": "CDE",
+    "notch": "ERW"
+  },
+  "20": {
+    "rotors": [
+      "I",
+      "III",
+      "IV"
+    ],
+    "start": "FGH",
+    "notch": "SDS"
+  },
+  "21": {
+    "rotors": [
+      "III",
+      "IV",
+      "V"
+    ],
+    "start": "IJK",
+    "notch": "VFD"
+  },
+  "22": {
+    "rotors": [
+      "II",
+      "IV",
+      "V"
+    ],
+    "start": "LMN",
+    "notch": "EWR"
+  },
+  "23": {
+    "rotors": [
+      "II",
+      "III",
+      "IV"
+    ],
+    "start": "OPQ",
+    "notch": "EQW"
+  },
+  "24": {
+    "rotors": [
+      "III",
+      "IV",
+      "V"
+    ],
+    "start": "RST",
+    "notch": "RRR"
+  },
+  "25": {
+    "rotors": [
+      "I",
+      "IV",
+      "V"
+    ],
+    "start": "UVW",
+    "notch": "DSS"
+  },
+  "26": {
+    "rotors": [
+      "II",
+      "III",
+      "IV"
+    ],
+    "start": "XYZ",
+    "notch": "PSD"
+  },
+  "27": {
+    "rotors": [
+      "II",
+      "IV",
+      "V"
+    ],
+    "start": "ABC",
+    "notch": "MDM"
+  },
+  "28": {
+    "rotors": [
+      "III",
+      "IV",
+      "V"
+    ],
+    "start": "DEF",
+    "notch": "COC"
+  },
+  "29": {
+    "rotors": [
+      "I",
+      "II",
+      "V"
+    ],
+    "start": "GHI",
+    "notch": "DSA"
+  },
+  "30": {
+    "rotors": [
+      "I",
+      "IV",
+      "V"
+    ],
+    "start": "JKL",
+    "notch": "SSA"
+  },
+  "31": {
+    "rotors": [
+      "II",
+      "III",
+      "IV"
+    ],
+    "start": "MNO",
+    "notch": "SDA"
+  }
+}
